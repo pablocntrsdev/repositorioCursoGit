@@ -1,3 +1,4 @@
 This is file1.txt
 Ne line
 New line 2
+New line 3
